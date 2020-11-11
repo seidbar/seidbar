@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi, I'm Josh and I am passionate about building amazing projects!
+
+
+### About Me
+- Recently I worked on a [iOS Health Dashboard](https://github.com/seidbar/HealthProject). Check it out!
+- **Technologies**: React, React Native, Express, JavaScript, MongoDB, MySQL, PostgresSQL
 
 <!--
 **seidbar/seidbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
