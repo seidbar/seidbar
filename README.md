@@ -9,6 +9,6 @@ Hi, I'm Josh and I am passionate about building amazing projects!
 
 - **Technologies**: React, React Native, Express, JavaScript, MongoDB, MySQL, PostgresSQL
 
-[![SeidBar's GitHub stats](https://github-readme-stats.vercel.app/api?username=seidbar&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![SeidBar's GitHub stats](https://github-readme-stats.vercel.app/api?username=seidbar&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
