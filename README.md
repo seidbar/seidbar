@@ -5,8 +5,10 @@ Hi, I'm Josh and I am passionate about building amazing projects!
 - Recently I worked on an [iOS Health Dashboard](https://github.com/seidbar/HealthProject)  with React Native
 - You can check out a [Meme Generator](https://meme-factory22.herokuapp.com/) I build with React
 - Here is a [restaurant webpage](https://www.aurel.life) I recently built and deployed
-- Currently I'm learning Vue
+- Currently I'm learning Vue & TailwindCSS
 
 - **Technologies**: React, React Native, Express, JavaScript, MongoDB, MySQL, PostgresSQL
+
+[![SeidBar's GitHub stats](https://github-readme-stats.vercel.app/api?username=seidbar&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
